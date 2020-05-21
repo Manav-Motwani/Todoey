@@ -2,6 +2,8 @@
 
 A To-Do Task Management App
 
+(REFRESH THE PAGE IF BELOW WORKING DEMO NOT VISIBLE)
+
 
 ![Working Demo](20200521_191730.gif)
 
