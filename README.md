@@ -1,6 +1,10 @@
-# todoey
+# Todoey
 
-A new Flutter application.
+A To-Do Task Management App
+
+
+![Working Demo](20200521_191730.gif)
+
 
 ## Getting Started
 
